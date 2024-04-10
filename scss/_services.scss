@@ -28,6 +28,7 @@
     .service-card {
       max-width: 360px;
       width: 100%;
+      min-height: 377px;
       border: 2px solid red;
       background-color: #fff;
       padding: 10px 20px;
@@ -50,6 +51,7 @@
         line-height: 26px;
         text-align: center;
         color: #666666;
+        min-height: 234px;
       }
     }
   }
