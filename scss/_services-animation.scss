@@ -59,22 +59,20 @@
 }
 @media (max-width: 768px) {
   .services-animation {
-    .services- {
-      h2 {
-        font-size: 35px;
-        margin-top: 50px;
-      }
+    h2 {
+      font-size: 35px;
+      margin-top: 50px;
+    }
 
-      .card-container {
-        flex-direction: column;
+    .card-container {
+      flex-direction: column;
 
-        .service-card {
-          h3 {
-            font-size: 15px;
-          }
-          p {
-            font-size: 15px;
-          }
+      .service-card {
+        h3 {
+          font-size: 15px;
+        }
+        p {
+          font-size: 15px;
         }
       }
     }

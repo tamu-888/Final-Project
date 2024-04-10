@@ -34,7 +34,8 @@
     -moz-box-shadow: -6px 0px 41px 3px rgba(0, 0, 0, 0.56);
 
     .desc {
-      width: 500px;
+      max-width: 500px;
+      width: 100%;
 
       p {
         font-size: 18px;
@@ -50,7 +51,8 @@
       }
     }
     .video {
-      width: 500px;
+      max-width: 500px;
+      width: 100%;
       border-radius: 10px;
       box-shadow: 1px 0px 17px 0px rgba(88, 53, 53, 0.77);
       -webkit-box-shadow: 1px 0px 17px 0px rgba(88, 53, 53, 0.77);
